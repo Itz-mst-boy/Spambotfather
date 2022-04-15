@@ -2,7 +2,7 @@
   <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
+  <b>ᴍᴜᴋᴇsʜ X sᴘᴀᴍ</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/itz-mst-boy/Spambotfather?style=flat-square&color=orange)](https://github.com/itz-mst-boy/Spambotfather/fork)
