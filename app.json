@@ -14,7 +14,7 @@
     "success_url": "https://t.me/itz_mst_boy",
     "env": {
              "API_ID": {
-        "description": "Fill Api ID Take this value from My.telegram.org",
+        "description": "ғɪʟʟ ᴀᴘɪ ɪᴅ ᴛᴀᴋᴇ  ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ My.telegram.org",
         "value": "",
         "required": true
       },
@@ -25,7 +25,7 @@
       },
       "API_HASH": {
         "description": "ғɪʟʟ  ᴀᴘɪ  ʜᴀsʜ ᴛᴀᴋᴇ  ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ  My.telegram.org",
-        "value": "d94fe90a1d7ee5ce6f36b20d4ca79280",
+        "value": "",
         "required": true
       },
      "CMD_HNDLR": {
