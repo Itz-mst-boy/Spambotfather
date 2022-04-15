@@ -3,10 +3,10 @@ import asyncio
 import sys
 import git
 import heroku3
-from RiZoeLXSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY, rizoelversion
-from RiZoeLXSpam import CMD_HNDLR as hl
+from MukeshxSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY, rizoelversion
+from MukeshxSpam import CMD_HNDLR as hl
 from telethon.tl.functions.users import GetFullUserRequest
-from RiZoeLXSpam import ALIVE_PIC
+from MukeshxSpam import ALIVE_PIC
 from telethon import events, version, Button
 from telethon.tl.custom import button
 from time import time
@@ -89,11 +89,11 @@ def get_readable_time(seconds: int) -> str:
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        text = "Pong!"
+        text = "Pong!🏓"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀\n▒█▀▀▄ ▒█░░▒█ ░▒█░░\n▒█▄▄█ ▒█▄▄▄█ ░▒█░░\n\nϟ ʀɪᴢᴏᴇʟ X sᴘᴀᴍ ϟ︎ `{ms}` ᴍs")
+        await event.edit(f"▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀\n▒█▀▀▄ ▒█░░▒█ ░▒█░░\n▒█▄▄█ ▒█▄▄▄█ ░▒█░░\n\nϟ ᴍᴜᴋᴇsʜ X sᴘᴀᴍ ϟ︎ `{ms}` ᴍs")
         
         
 
