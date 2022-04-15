@@ -4,7 +4,7 @@ from telethon.tl.functions.users import GetFullUserRequest
 from telethon import events, Button
 from telethon.tl.custom import button
 from .. import Riz, Riz2, Riz3, Riz4, Riz5, Riz6, Riz7, Riz8, Riz9, Riz10, ALIVE_PIC, OWNER_ID
-from RiZoeLXSpam.plugins.help import *
+from MukeshxSpam.plugins.help import *
 
 
 RIZ_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/aafe899afdbd00314a561.jpg"
