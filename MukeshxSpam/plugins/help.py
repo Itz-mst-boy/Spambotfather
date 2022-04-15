@@ -1,9 +1,9 @@
-from RiZoeLXSpam import Riz, Riz2, Riz3, Riz4, Riz5, Riz6, Riz7, Riz8, Riz9, Riz10, SUDO_USERS
+from MukeshxSpam import Riz, Riz2, Riz3, Riz4, Riz5, Riz6, Riz7, Riz8, Riz9, Riz10, SUDO_USERS
 from telethon import events, Button
 from telethon.tl.custom import button
 from time import time
 from datetime import datetime
-from RiZoeLXSpam import CMD_HNDLR as hl
+from MukeshxSpam import CMD_HNDLR as hl
     
 HELP_PIC = "https://telegra.ph/file/aafe899afdbd00314a561.jpg"
 
