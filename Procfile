@@ -1,1 +1,1 @@
-Riz: python -m RiZoeLXSpam
+Riz: python -m MukeshXSpam
