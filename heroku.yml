@@ -2,4 +2,4 @@ build:
   docker:
     Riz: Dockerfile
 run:
-  Riz: python3 -m MukeshXspam
+  Riz: python3 -m MukeshxSpam
