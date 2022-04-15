@@ -15,91 +15,91 @@
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "8884119",
+        "value": "",
         "required": true
       },
       "ALIVE_PIC": {
-        "description": "your alive pic or video",
+        "description": "ʏᴏᴜʀ  ᴀʟɪᴠᴇ  ᴘɪᴄ ᴏʀ  ᴠɪᴅᴇᴏ  ɪғ ᴜ ʀ ɴᴏᴏʙ ʟᴇᴀᴠᴇ ᴀs ɪᴛ ɪs",
         "value": "https://telegra.ph/file/7fa9017265d3d6f51d191.jpg",
         "required": false
       },
       "API_HASH": {
-        "description": "Fill Api hash Take this value from My.telegram.org",
+        "description": "ғɪʟʟ  ᴀᴘɪ  ʜᴀsʜ ᴛᴀᴋᴇ  ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ  My.telegram.org",
         "value": "d94fe90a1d7ee5ce6f36b20d4ca79280",
         "required": true
       },
      "CMD_HNDLR": {
-            "description": "Custom command handler.",
+            "description": "ᴄᴜsᴛᴏᴍ  ᴄᴏᴍᴍᴀɴᴅ  ʜᴀɴᴅʟᴇʀ  ʟᴇᴀᴠᴇ ᴀs ɪᴛ ɪs ɪғ ᴜ ʀ ɴᴏᴏʙ.",
             "value": "!",
             "required": false
         },
       "BOT_TOKEN": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "5244311689:AAGdT5pv7T56B1Rq24ccpzd8EH6aWgbfz5w",
+        "description": "ᴛᴇʟᴇɢʀᴀᴍ  ʙᴏᴛ  ᴛᴏᴋᴇɴ ɢᴇᴛ  ᴛʜɪs  ᴠᴀʟᴜᴇ ғʀᴏᴍ https://t.me/BotFather",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN2": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "description": "ᴛᴇʟᴇɢʀᴀᴍ  ʙᴏᴛ  ᴛᴏᴋᴇɴ ɢᴇᴛ  ᴛʜɪs  ᴠᴀʟᴜᴇ ғʀᴏᴍ https://t.me/BotFather",
         "value": "5168005024:AAGu96p7BWEX5YgxPKsDGSfw9cUIvc2MfuQ",
         "required": true
       },
       "BOT_TOKEN3": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "5194456489:AAF_Vh2BiLZ4Ljix_RQYnKT5j7grm-sMTq8",
+        "description": "ᴛᴇʟᴇɢʀᴀᴍ  ʙᴏᴛ  ᴛᴏᴋᴇɴ ɢᴇᴛ  ᴛʜɪs  ᴠᴀʟᴜᴇ ғʀᴏᴍ https://t.me/BotFather",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN4": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "5105256232:AAHzFcmiqDvdJ2ox9G3CBy5FPgpusYO0gGo",
+        "description": "ᴛᴇʟᴇɢʀᴀᴍ  ʙᴏᴛ  ᴛᴏᴋᴇɴ ɢᴇᴛ  ᴛʜɪs  ᴠᴀʟᴜᴇ ғʀᴏᴍ https://t.me/BotFather",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN5": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "5134778799:AAG6QUul_5jVnkTV3j_Lel8iMho7cUhSpjI",
+        "description": "ᴛᴇʟᴇɢʀᴀᴍ  ʙᴏᴛ  ᴛᴏᴋᴇɴ ɢᴇᴛ  ᴛʜɪs  ᴠᴀʟᴜᴇ ғʀᴏᴍ https://t.me/BotFather",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN6": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "5271809825:AAEhL_F4ubu54gDQPV0RmAhVx9U-E3AeQuI",
+        "description": "ᴛᴇʟᴇɢʀᴀᴍ  ʙᴏᴛ  ᴛᴏᴋᴇɴ ɢᴇᴛ  ᴛʜɪs  ᴠᴀʟᴜᴇ ғʀᴏᴍ https://t.me/BotFather",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN7": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "5137112046:AAHQcFJmTajnsuM_RodPC11osdUt3IICx6c",
+        "description": "ᴛᴇʟᴇɢʀᴀᴍ  ʙᴏᴛ  ᴛᴏᴋᴇɴ ɢᴇᴛ  ᴛʜɪs  ᴠᴀʟᴜᴇ ғʀᴏᴍ https://t.me/BotFather",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN8": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "5138836349:AAGzmjf9xyO5e6idQIBjzhX3iAd6RayHJEo",
+        "description": "ᴛᴇʟᴇɢʀᴀᴍ  ʙᴏᴛ  ᴛᴏᴋᴇɴ ɢᴇᴛ  ᴛʜɪs  ᴠᴀʟᴜᴇ ғʀᴏᴍ https://t.me/BotFather",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN9": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "5281719362:AAGC0xTwsNbQnAE17COl6NEr1VAQZVCKwRc",
+        "description": "ᴛᴇʟᴇɢʀᴀᴍ  ʙᴏᴛ  ᴛᴏᴋᴇɴ ɢᴇᴛ  ᴛʜɪs  ᴠᴀʟᴜᴇ ғʀᴏᴍ https://t.me/BotFather",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN10": {
-        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "5203292672:AAFVxpH1R41Ur3qC9JAJVnuoTXC8jW2KOFU",
+        "description": "ᴛᴇʟᴇɢʀᴀᴍ  ʙᴏᴛ  ᴛᴏᴋᴇɴ ɢᴇᴛ  ᴛʜɪs  ᴠᴀʟᴜᴇ ғʀᴏᴍ https://t.me/BotFather",
+        "value": "",
         "required": true
       },
        "SUDO_USER": {
-            "description": "Sudo users id space by space",
+            "description": "sᴜᴅᴏ ᴜsᴇʀs ɪᴅ sᴘᴀᴄᴇ ʙʏ sᴘᴀᴄᴇ ɪғ ᴜʀ ɴᴏᴏʙ ʟᴇᴀᴠᴇ ᴀs ɪᴛ ɪs",
             "value": "",
             "required": false
         },
       "OWNER_ID": {
-            "description": "owner Id",
-            "value": "5142140533",
+            "description": "ᴏᴡɴᴇʀ ɪᴅ  ɢᴇᴛ ɪᴛ ғʀᴏᴍ @groupcontrollertgbot",
+            "value": "",
             "required": true
         },
         "HEROKU_API_KEY": {
-            "description": "Your Heroku api key to update your bot",
+            "description": " ᴇɴᴛᴇʀ ʏᴏᴜʀ ʜᴇʀᴜᴋᴏ ᴀᴘɪ ᴋᴇʏ ᴛᴏ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ ʙᴏᴛ",
             "value": "",
             "required": false 
         },
         "HEROKU_APP_NAME": {
-            "description": "Your app name to Update your bot",
+            "description": "ʏᴏᴜʀ  ᴀᴘᴘ  ɴᴀᴍᴇ ᴛᴏ ᴜᴘᴅᴀᴛᴇ  ʏᴏᴜʀ  ʙᴏᴛ",
           "value": "",
           "required": false  
         }
