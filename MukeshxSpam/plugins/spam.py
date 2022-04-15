@@ -1,4 +1,3 @@
-
 async def gifspam(e, smex):
     try:
         await e.client(
