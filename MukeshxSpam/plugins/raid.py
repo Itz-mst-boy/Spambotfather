@@ -6,9 +6,9 @@ import random
 from telethon import events
 from telethon import functions, types
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
-from RiZoeLXSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, SUDO_USERS, OWNER_ID
+from MukeshxSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, SUDO_USERS, OWNER_ID
 from resources.data import RAID, REPLYRAID, RiZoeLX
-from RiZoeLXSpam import CMD_HNDLR as hl
+from MukeshxSpam import CMD_HNDLR as hl
 
 
 que = {}
