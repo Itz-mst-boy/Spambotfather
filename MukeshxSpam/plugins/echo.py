@@ -10,7 +10,7 @@ from MukeshxSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Ri
 
 from MukeshxSpam import CMD_HNDLR as hl
 from MukeshxSpam.sql.echo_sql import addecho, get_all_echos, is_echo, remove_echo
-from resources.data import Mukeshx
+from resources.data import RiZoeLX
 
 
 @Riz.on(events.NewMessage(incoming=True, pattern=r"\%saddecho(?: |$)(.*)" % hl))
