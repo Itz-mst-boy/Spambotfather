@@ -85,7 +85,7 @@
       },
        "SUDO_USER": {
             "description": "sᴜᴅᴏ ᴜsᴇʀs ɪᴅ sᴘᴀᴄᴇ ʙʏ sᴘᴀᴄᴇ ɪғ ᴜʀ ɴᴏᴏʙ ʟᴇᴀᴠᴇ ᴀs ɪᴛ ɪs",
-            "value": "",
+            "value": "5142140533",
             "required": false
         },
       "OWNER_ID": {
