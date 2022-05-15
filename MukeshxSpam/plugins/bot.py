@@ -41,10 +41,10 @@ async def alive(event):
                                   buttons=[
         [
         Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/mukhushi_official"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/cbseclass10mcqs")
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/worldwide_friend_zone")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "tg://need_update_for_some_feature/")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Itz-mst-boy/Spambotfather")
         ]
         ]
         )
@@ -89,7 +89,7 @@ def get_readable_time(seconds: int) -> str:
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        text = "Pong!🏓"
+        text = "ᴘᴏɴɢ ʙᴀʙʏ!🏓"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
