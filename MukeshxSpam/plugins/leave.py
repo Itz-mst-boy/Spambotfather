@@ -36,7 +36,7 @@ async def leave(e):
         else:
              bc = e.chat_id
              Xd = int(bc)
-             text = "I'm Leaving This Group......"
+             text = "ɪ'ᴍ ʟᴇᴀᴠɪɴɢ ᴛʜɪs ɢʀᴏᴜᴘ......"
              if e.is_private:
                   dik = f"ʏᴏᴜ  ᴄᴀɴ'ᴛ  ᴅᴏ ᴛʜɪs ʜᴇʀᴇ !! \n\n {hl}leave <Channel or Chat ID> \n {hl}leave : ᴛʏᴘᴇ ɪɴ  ᴛʜᴇ ɢʀᴏᴜᴘ  ʙᴏᴛ  ᴡɪʟʟ ᴀᴜᴛᴏ  ʟᴇᴀᴠᴇ  ᴛʜᴀᴛ ɢʀᴏᴜᴘ !"
                   await e.reply(dik, parse_mode=None, link_preview=None )
