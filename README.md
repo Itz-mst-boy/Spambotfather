@@ -24,6 +24,5 @@
 * [Support Group](https://t.me/cbseclass10mcqs)
  
 # Credits
-* [RiZoeL ](https://github.com/MrRizoel)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [RiZoeL ](https://t.me/MrRizoel)
 * [Mukesh](https://telegram.dog/itz_mst_boy)
