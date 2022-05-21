@@ -40,7 +40,7 @@
       },
       "BOT_TOKEN2": {
         "description": "ᴛᴇʟᴇɢʀᴀᴍ  ʙᴏᴛ  ᴛᴏᴋᴇɴ ɢᴇᴛ  ᴛʜɪs  ᴠᴀʟᴜᴇ ғʀᴏᴍ https://t.me/BotFather",
-        "value": "5168005024:AAGu96p7BWEX5YgxPKsDGSfw9cUIvc2MfuQ",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN3": {
