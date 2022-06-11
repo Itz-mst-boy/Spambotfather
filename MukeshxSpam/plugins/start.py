@@ -20,7 +20,7 @@ Riz_Button = [
                
 RizX_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/mukhushi_official"),
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/mr_sukkun"),
         Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/worldwide_friend_zone")
         ],
         [
