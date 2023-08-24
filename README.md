@@ -24,5 +24,5 @@
 * [Support Group](https://t.me/aayuxvenom)
  
 # Credits
-* [RiZoeL ](https://telegram.me/Its_aryann)
+* [its_aryan](https://telegram.me/Its_aryann)
 * [venom](https://telegram.me/Its_aryann)
